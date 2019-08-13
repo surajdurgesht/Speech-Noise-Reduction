@@ -1,4 +1,4 @@
-"# Speech-Noise-Reduction" 
+# Speech-Noise-Reduction
 
 Speech enhancement/noise reduction using
 minimum mean-squre error short-time spectral
